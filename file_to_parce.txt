@@ -1,0 +1,13 @@
+mov ax,100500100500
+
+mov ax,-13
+
+mov bx,ax
+
+mov bx,0xA1
+
+mov bx,111111
+
+some wrong syntax))
+
+
